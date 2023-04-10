@@ -1,0 +1,108 @@
+.productContainer{
+    margin-top: 100px;
+    width: 100%;
+    height: 385px;
+}
+
+.productDetail{
+    width: 80%;
+    height: 385px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.productImages{
+    width: 734px;
+    height: 385px;
+    display: flex;
+}
+
+.imagesRow{
+    width: 104.56px;
+    height: 385px;
+
+}
+
+.imageProduct{
+    border-radius: 5px;
+    margin-top: 18.5px;
+}
+
+.imageMain{
+    margin-left: 47.05px;
+    border-radius: 10px;
+}
+
+.details{
+    width: 587px;
+    height: 385px;
+    margin-left: 30px;
+}
+
+.details h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    margin: 0 auto;
+}
+
+.details h4{
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+    color: #C1C1C1;
+    margin-top: 14px;
+}
+
+.details img{
+    position: relative;
+    bottom: 40px;
+}
+
+.especificacionesContainer{
+    width: 587px;
+    height: 152px;
+    position: relative;
+    bottom: 64.7px;
+}
+
+.especificacionesContainer p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+    color: #C1C1C1;
+}
+
+.extraDetails{
+    width: 587px;
+    height: 50px;
+    position: relative;
+    bottom: 40px;
+    display: flex;
+}
+
+.extraDetails h4{
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    line-height: 20px;
+}
+
+.cantidad{
+    width: 50.69px;
+    height: 50px;
+    background-color: #D9D9D9;
+    margin-left: 22.3px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.cantidad h4{
+    font-family: 'Roboto';
+    font-size: 24px;
+    color: black;
+}
+
+.extraDetails a{
+    width: 133.82;
+    height: 43px;
+    margin-left: 280px;
+    position: relative;
+    top: 43px;
+}

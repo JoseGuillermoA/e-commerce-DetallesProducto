@@ -1,0 +1,51 @@
+.reviewsContainer{
+    width: 650px;
+    height: 378px;
+    margin-top: 100px;
+    margin-left: 170px;
+}
+
+.reviewsContainer h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+    color: black;
+}
+
+.usersContainer{
+    width: 502px;
+    height: 117px;
+    margin-top: 30px;
+    margin-bottom: 32px;
+    display: flex;
+}
+
+.imgProfile{
+    width: 117px;
+    height: 117px;
+    margin-right: 20px;
+}
+
+.userCard{
+    width: 365px;
+    height: 112px;
+
+}
+
+.userName{
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    margin: 0 auto;
+}
+
+.review{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    font-weight: 400;
+}
+
+.rating{
+    width: 120px;
+    height: 24px;
+}
